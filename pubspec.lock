@@ -15,6 +15,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
+  bottom_nav_bar:
+    dependency: "direct dev"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: fa6256b4ad16ea8b93fb1d9aefdc2c17f70306b4
+      url: "https://github.com/Ansh-Rathod/bottom_nav_bar"
+    source: git
+    version: "1.0.0+1"
   characters:
     dependency: transitive
     description:
